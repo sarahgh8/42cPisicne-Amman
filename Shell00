@@ -26,4 +26,7 @@ ex02 >> this exercise is the same as ex01 but more annoying, as i told you use h
 
 *******************************************************************************************************************************************************************
 
-ex03 >> SSH key is a type of access credential just like your passwords to access SSH servers, it's unique for each device, and you should add it to your intra account to access the git repostries to submit your work.  
+ex03 >> SSH key is a type of access credential just like your passwords to access SSH servers,
+        it's unique for each device, and you should add it to your intra account to access the git repostries to submit your work.  
+        now to solve this exercise you have to search for your .ssh directory "it's a hidden file"
+        and find your public key and paste it in the "id_rsa_pub" you've created in the ex03 direcrory.
