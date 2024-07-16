@@ -5,6 +5,8 @@ ex00 >> first create a directory "ex00" in your repo using <mkdir> => mkdir ex00
         and then :wq or :x to save and exit.
         now to test your work use the <cat> command, this command is used to view a file's content, you're gonna need it for later ;)
 
+********************************************************************************************************************************************************************
+
 ex01 >> after creating the ex01 directory as in the last exercise, create a file "testShell00" using touch 
         <touch testShell00>, now that your file is created use the command ls -l aka "list -long"
         this command is used to list all files and directories in your current directory " . ", and 
@@ -14,3 +16,14 @@ ex01 >> after creating the ex01 directory as in the last exercise, create a file
         now let's see what this line means , first you can see a combo of 'r' 'x' 'w' and '-'
         these are permissions i suggest you watching this video to learn all about permissions 
         https://youtu.be/pYdB2uG9pnE?si=Wc3BOLUmSVJxpYGN  [1:22:09]
+        I also suggest you to keep https://linuxjourney.com/ your friend in your Piscine journey
+        go to https://linuxjourney.com/ >> command line >> ls (list directories)
+
+*******************************************************************************************************************************************************************
+
+ex02 >> this exercise is the same as ex01 but more annoying, as i told you use https://linuxjourney.com/ and you should be good.
+        note: dont worry if you retried doing this exercise more than once :) .
+
+*******************************************************************************************************************************************************************
+
+ex03 >> SSH key is a type of access credential just like your passwords to access SSH servers, it's unique for each device, and you should add it to your intra account to access the git repostries to submit your work.  
