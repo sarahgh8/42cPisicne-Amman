@@ -1,0 +1,16 @@
+ex00 >> first create a directory "ex00" in your repo using <mkdir> => mkdir ex00
+        then create a file "z" using <touch> or directly using vim => 1. touch z / 2. vim z, note: vim is much better :D
+        now if you used <vim z> , a new page should pop out, this is the vim text editor it's much like a notepad.
+        press i to get in the insert mode and then simply type the letter Z and to save the file press esc to escape the insert mode,
+        and then :wq or :x to save and exit.
+        now to test your work use the <cat> command, this command is used to view a file's content, you're gonna need it for later ;)
+
+ex01 >> after creating the ex01 directory as in the last exercise, create a file "testShell00" using touch 
+        <touch testShell00>, now that your file is created use the command ls -l aka "list -long"
+        this command is used to list all files and directories in your current directory " . ", and 
+        the /flag/ -l is used to show the details of these files and directories, try < man ls>.
+        
+        """ -r--r-xr-x 1 XX XX 40 Jun 1 23:42 testShell00 """
+        now let's see what this line means , first you can see a combo of 'r' 'x' 'w' and '-'
+        these are permissions i suggest you watching this video to learn all about permissions 
+        https://youtu.be/pYdB2uG9pnE?si=Wc3BOLUmSVJxpYGN  [1:22:09]
