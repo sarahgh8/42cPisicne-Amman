@@ -30,3 +30,21 @@ ex03 >> SSH key is a type of access credential just like your passwords to acces
         it's unique for each device, and you should add it to your intra account to access the git repostries to submit your work.  
         now to solve this exercise you have to search for your .ssh directory "it's a hidden file"
         and find your public key and paste it in the "id_rsa_pub" you've created in the ex03 direcrory.
+
+*******************************************************************************************************************************************************************
+
+ex04 >> now for this exercise you have to RTFM !! (Read the fuck**ng manual) using the <man> command 
+        when using "man ls", search for the flags that do the following >> list all files and directories in your
+        current directory (except for hidden files or any file that starts by a dot - yes, that
+        includes double-dots), separated by a comma and a space, by order of modification
+        date. Make sure the directory’s names are followed by a slash character.
+        note: use vim midLS to place your command!
+
+********************************************************************************************************************************************************************
+
+ex05 >> in this exercise you have to also RTFM !! use "man id" :)
+
+********************************************************************************************************************************************************************
+
+<3 now you have finished the mandatory exercises, submit them and start with the C projects !! good luck on your next exam !
+<3 more resources : 
